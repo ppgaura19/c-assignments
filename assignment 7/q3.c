@@ -6,7 +6,7 @@ int main()
 {
 
     int i, j, n, x, c;
-    printf("Enter the no of elements into the array\n");
+    printf("Enter the no. of elements into the array\n");
     scanf("%d", &n);
 
     int A[n], B[n + 1];
